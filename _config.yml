@@ -7,9 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   You can contact me at nm2786 [at] columbia [dot] edu.
   <br><br>
-  <a href="https://github.com/neelimishra">GitHub</a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/neelimishra/">LinkedIn</a> 
+  <a href="https://github.com/neelimishra">GitHub</a> &mdash; <a href="https://www.linkedin.com/in/neelimishra/">LinkedIn</a> 
 
   
 theme: jekyll-theme-minimal
