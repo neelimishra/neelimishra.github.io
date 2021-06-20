@@ -4,11 +4,16 @@
 
 ### Publications
 
-Neeli Mishra, Evan S. Schaffer, Wenze Li, Matthew Whiteway, Jason Freedman, Michelle Vancura, Kripa Patel, Venkatakaushik Voleti, Liam Paninski, Larry F. Abbott, Elizabeth M. C. Hillman, Richard Axel (2021)\
-**Flygenvectors: global and local representations of behavior and internal state**, In preparation
+Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler P. Lee (2021)\, submitted to NeurIPS 2021
 
-Anqi Wu, E. Kelly Buchanan, Matthew Whiteway, Michael Schartner, Guido Meijer, Jean-Paul Noel, Erica Rodriguez, Claire Everett, Amy Norovich, Evan S. Schaffer, Neeli Mishra, C. Daniel Salzman, Dora Angelaki, Andrés Bendesky, John P. Cunningham, Liam Paninski. (2020)\
-**Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking**, Advances in Neural Information Processing Systems (NeurIPS) [[pdf](./pdf/neurips2020.pdf)]
+Neeli Mishra, Evan S. Schaffer, Wenze Li, Matthew R. Whiteway, Jason Freedman, Michelle Vancura, Kripa Patel, Venkatakaushik Voleti, Liam Paninski, Larry F. Abbott, Elizabeth M. C. Hillman, Richard Axel (2021)\
+**Flygenvectors: global and local representations of behavior and internal state**, unpublished
+
+Matthew R. Whiteway, Evan S. Schaffer, Anqi Wu, E. Kelly Buchanan, Omer F. Onder, Neeli Mishra, Liam Paninski. (2021)\
+**Semi-supervised sequence modeling for improved behavioral segmentation**, bioRxiv [[pdf](./pdf/biorxiv2021.pdf)]
+
+Anqi Wu, E. Kelly Buchanan, Matthew R. Whiteway, Michael Schartner, Guido Meijer, Jean-Paul Noel, Erica Rodriguez, Claire Everett, Amy Norovich, Evan S. Schaffer, Neeli Mishra, C. Daniel Salzman, Dora Angelaki, Andrés Bendesky, John P. Cunningham, Liam Paninski. (2020)\
+**Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking**, bioRxiv [[pdf](./pdf/biorxiv2020.pdf)]
 
 Hidehiko K. Inagaki, Yonil Jung, Eric D. Hoopfer, Allan M. Wong, Neeli Mishra, John Y. Lin, Roger Y. Tsien, David J. Anderson. (2014)\
 **Optogenetic control of Drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship**, Nature Methods [[pdf](./pdf/natmethods2014.pdf)]
@@ -33,8 +38,14 @@ Neeli Mishra, Hidehiko K. Inagaki, David J. Anderson (2013)\
 
 ### Conference Posters
 
+Matthew R. Whiteway, Evan S. Schaffer, Anqi Wu, E. Kelly Buchanan, Omer F. Onder, Neeli Mishra, Liam Paninski. (2021)\
+**Semi-supervised sequence modeling for improved behavioral segmentation**, CV4Animals Workshop (CVPR 2021), Virtual
+
 Anqi Wu, E. Kelly Buchanan, Matthew R. Whiteway, Michael Schartner, Guido Meijer, Jean-Paul Noel, Erica Rodriguez, Claire Everett, Amy Norovich, Evan Schaffer, Neeli Mishra, C. Daniel Salzman, Dora Angelaki, Andrés Bendesky, The International Brain Laboratory, John Cunningham, Liam Paninski (2021)\
  **Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking**, Computational and Systems Neuroscience (COSYNE), Virtual
+
+ Anqi Wu, E. Kelly Buchanan, Matthew R. Whiteway, Michael Schartner, Guido Meijer, Jean-Paul Noel, Erica Rodriguez, Claire Everett, Amy Norovich, Evan S. Schaffer, Neeli Mishra, C. Daniel Salzman, Dora Angelaki, Andrés Bendesky, John P. Cunningham, Liam Paninski. (2020)\
+**Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking**, Advances in Neural Information Processing Systems (NeurIPS 2020), Virtual
 
 Evan S. Schaffer, Neeli Mishra, Wenze Li, Matthew Whiteway, Jason Freedman, Kripa Patel, Venkatakaushik Voleti, Liam Paninski, Larry F. Abbott, Elizabeth M. C. Hillman, Richard Axel (2020)\
  **Flygenvectors: global and local representations of behavior and internal state**, Computational and Systems Neuroscience (COSYNE), Denver, CO
