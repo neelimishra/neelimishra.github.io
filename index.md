@@ -4,7 +4,8 @@
 
 ### Publications
 
-Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler P. Lee (2021)\, submitted to NeurIPS 2021
+Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler P. Lee (2021)\
+Submitted to NeurIPS 2021
 
 Neeli Mishra, Evan S. Schaffer, Wenze Li, Matthew R. Whiteway, Jason Freedman, Michelle Vancura, Kripa Patel, Venkatakaushik Voleti, Liam Paninski, Larry F. Abbott, Elizabeth M. C. Hillman, Richard Axel (2021)\
 **Flygenvectors: global and local representations of behavior and internal state**, unpublished
