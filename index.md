@@ -5,10 +5,10 @@
 ### Publications
 
 Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler P. Lee (2021)\
-Submitted to NeurIPS 2021
+Unpublished (under double-blind review for NeurIPS 2021)
 
 Neeli Mishra, Evan S. Schaffer, Wenze Li, Matthew R. Whiteway, Jason Freedman, Michelle Vancura, Kripa Patel, Venkatakaushik Voleti, Liam Paninski, Larry F. Abbott, Elizabeth M. C. Hillman, Richard Axel (2021)\
-**Flygenvectors: global and local representations of behavior and internal state**, unpublished
+**Flygenvectors: global and local representations of behavior and internal state**, Unpublished (available upon request)
 
 Matthew R. Whiteway, Evan S. Schaffer, Anqi Wu, E. Kelly Buchanan, Omer F. Onder, Neeli Mishra, Liam Paninski. (2021)\
 **Semi-supervised sequence modeling for improved behavioral segmentation**, bioRxiv [[pdf](./pdf/biorxiv2021.pdf)]
@@ -20,7 +20,7 @@ Hidehiko K. Inagaki, Yonil Jung, Eric D. Hoopfer, Allan M. Wong, Neeli Mishra, J
 **Optogenetic control of Drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship**, Nature Methods [[pdf](./pdf/natmethods2014.pdf)]
 
 Nicolas L. Young, Mariana D. Plazas-Mayorca, Peter A. DiMaggio, Ian Z. Flaniken, Andrea J. Beltran, Neeli Mishra, Gary LeRoy, Christodoulos A. Floudas, Benjamin A. Garcia. (2011)\
-**Collective mass spectrometry approaches reveal broad and combinatorial modification of high mobility group protein A1a**, Journal of the American Society for Mass Spectrometry [[pdf](./pdf/jasmas2011.pdf)]
+**Collective mass spectrometry approaches reveal broad and combinatorial modification of high mobility group protein A1a**, Journal of the American Society for Mass Spectrometry [[pdf](./pdf/jasms2011.pdf)]
 
 ---
 
