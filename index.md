@@ -1,20 +1,17 @@
-## About me
-
----
 
 ### Publications and Preprints
 
 Matthew R. Whiteway, Evan S. Schaffer, Anqi Wu, E. Kelly Buchanan, Omer F. Onder, Neeli Mishra, Liam Paninski. (2021)\
-**Semi-supervised sequence modeling for improved behavioral segmentation**, bioRxiv [[pdf](./pdf/biorxiv2021.pdf)]
+**Semi-supervised sequence modeling for improved behavioral segmentation**, bioRxiv [[pdf](./assets/papers/mishra-biorxiv2021.pdf)]
 
 Anqi Wu, E. Kelly Buchanan, Matthew R. Whiteway, Michael Schartner, Guido Meijer, Jean-Paul Noel, Erica Rodriguez, Claire Everett, Amy Norovich, Evan S. Schaffer, Neeli Mishra, C. Daniel Salzman, Dora Angelaki, Andrés Bendesky, John P. Cunningham, Liam Paninski. (2020)\
-**Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking**, bioRxiv [[pdf](./pdf/biorxiv2020.pdf)]
+**Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking**, bioRxiv [[pdf](./assets/papers/mishra-biorxiv2020.pdf)]
 
 Hidehiko K. Inagaki, Yonil Jung, Eric D. Hoopfer, Allan M. Wong, Neeli Mishra, John Y. Lin, Roger Y. Tsien, David J. Anderson. (2014)\
-**Optogenetic control of Drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship**, Nature Methods [[pdf](./pdf/natmethods2014.pdf)]
+**Optogenetic control of Drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship**, Nature Methods [[pdf](./assets/papers/mishra-natmethods2014.pdf)]
 
 Nicolas L. Young, Mariana D. Plazas-Mayorca, Peter A. DiMaggio, Ian Z. Flaniken, Andrea J. Beltran, Neeli Mishra, Gary LeRoy, Christodoulos A. Floudas, Benjamin A. Garcia. (2011)\
-**Collective mass spectrometry approaches reveal broad and combinatorial modification of high mobility group protein A1a**, Journal of the American Society for Mass Spectrometry [[pdf](./pdf/jasms2011.pdf)]
+**Collective mass spectrometry approaches reveal broad and combinatorial modification of high mobility group protein A1a**, Journal of the American Society for Mass Spectrometry [[pdf](./assets/papers/mishra-jasms2011.pdf)]
 
 ---
 
@@ -50,12 +47,6 @@ Neeli Mishra, Wenze Li, Evan S. Schaffer, Venkatakaushik Voleti, Elizabeth M. C.
 
 Wenze Li, Neeli Mishra, Evan S. Schaffer, Venkatakaushik Voleti, Elizabeth M. C. Hillman (2017)\
 **Swept confocally aligned planar excitation (SCAPE) microscopy for whole brain circuit identification in adult Drosophila**, Janelia Emerging Tools for Acquisition and Interpretation of Whole-Brain Functional Data Meeting, Ashburn, VA
-
-<!-- Wenze Li, Venkatakaushik Voleti, Evan S. Schaffer, Neeli Mishra, Elizabeth M. C. Hillman (2016)\
-**Swept confocally aligned planar excitation (SCAPE) microscopy for the identification of neural circuits in adult Drosophila**, Society for Neuroscience Annual Meeting, San Diego, CA
-
-Wenze Li, Venkatakaushik Voleti, Evan S. Schaffer, César S. Mendes, Neeli Mishra, Richard S. Mann, Elizabeth M. C. Hillman (2015)\
-**Swept confocally aligned planar excitation (SCAPE) microscopy for large-scale brain imaging in adult Drosophila melanogaster**, Society for Neuroscience Annual Meeting, Chicago, IL -->
 
 Neeli Mishra, Gwyneth Card (2012)\
 **The fly puffer: investigating escape mediated by the mechanosensory system of Drosophila**, Summer Undergraduate Research Fellowship (SURF) Seminar Day, Pasadena, CA
