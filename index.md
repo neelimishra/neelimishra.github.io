@@ -1,6 +1,10 @@
 
 ### Publications and Preprints
 
+
+Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler Lee. (2021)\
+**Understanding the Logit Distributions of Adversarially-Trained Deep Neural Networks**, arXiv [[pdf](./assets/papers/mishra-arxiv2021.pdf)]
+
 Matthew R. Whiteway, Evan S. Schaffer, Anqi Wu, E. Kelly Buchanan, Omer F. Onder, Neeli Mishra, Liam Paninski. (2021)\
 **Semi-supervised sequence modeling for improved behavioral segmentation**, bioRxiv [[pdf](./assets/papers/mishra-biorxiv2021.pdf)]
 
@@ -19,9 +23,6 @@ Nicolas L. Young, Mariana D. Plazas-Mayorca, Peter A. DiMaggio, Ian Z. Flaniken,
 
 Neeli Mishra, Evan S. Schaffer, Wenze Li, Matthew R. Whiteway, Jason Freedman, Michelle Vancura, Kripa Patel, Venkatakaushik Voleti, Liam Paninski, Larry F. Abbott, Elizabeth M. C. Hillman, Richard Axel (2021)\
 **Flygenvectors: global and local representations of behavior and internal state**, available upon request
-
-Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler P. Lee (2021)\
-Unpublished (under double-blind review at NeurIPS)
 
 Neeli Mishra (2020)\
 **Characterization of global brain state dynamics in Drosophila melanogaster**, Doctoral Thesis, available upon request
