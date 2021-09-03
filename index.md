@@ -3,7 +3,7 @@
 
 
 Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler Lee. (2021)\
-**Understanding the Logit Distributions of Adversarially-Trained Deep Neural Networks**, arXiv [[pdf](./assets/papers/mishra-arxiv2021.pdf)]
+**Understanding the logit distributions of adversarially-trained deep neural networks**, arXiv [[pdf](./assets/papers/mishra-arxiv2021.pdf)]
 
 Matthew R. Whiteway, Evan S. Schaffer, Anqi Wu, E. Kelly Buchanan, Omer F. Onder, Neeli Mishra, Liam Paninski. (2021)\
 **Semi-supervised sequence modeling for improved behavioral segmentation**, bioRxiv [[pdf](./assets/papers/mishra-biorxiv2021.pdf)]
