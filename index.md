@@ -2,11 +2,14 @@
 ### Publications and Preprints
 
 
+Evan S. Schaffer\*, Neeli Mishra\*, Matthew R. Whiteway, Wenze Li, Michelle B. Vancura, Jason Freedman, Kripa B. Patel, Venkatakaushik Voleti, Liam Paninski, Elizabeth M. C. Hillman, L.F. Abbott, Richard Axel. (2021)\
+**Flygenvectors: the spatial and temporal structure of neural activity across the fly brain**, bioRxiv [[pdf](./assets/papers/mishra-biorxiv-2-2021.pdf)]
+
 Landan Seguin, Anthony Ndirango, Neeli Mishra, SueYeon Chung, Tyler Lee. (2021)\
 **Understanding the logit distributions of adversarially-trained deep neural networks**, arXiv [[pdf](./assets/papers/mishra-arxiv2021.pdf)]
 
 Matthew R. Whiteway, Evan S. Schaffer, Anqi Wu, E. Kelly Buchanan, Omer F. Onder, Neeli Mishra, Liam Paninski. (2021)\
-**Semi-supervised sequence modeling for improved behavioral segmentation**, bioRxiv [[pdf](./assets/papers/mishra-biorxiv2021.pdf)]
+**Semi-supervised sequence modeling for improved behavioral segmentation**, bioRxiv [[pdf](./assets/papers/mishra-biorxiv-1-2021.pdf)]
 
 Anqi Wu, E. Kelly Buchanan, Matthew R. Whiteway, Michael Schartner, Guido Meijer, Jean-Paul Noel, Erica Rodriguez, Claire Everett, Amy Norovich, Evan S. Schaffer, Neeli Mishra, C. Daniel Salzman, Dora Angelaki, Andrés Bendesky, John P. Cunningham, Liam Paninski. (2020)\
 **Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking**, bioRxiv [[pdf](./assets/papers/mishra-biorxiv2020.pdf)]
@@ -17,12 +20,11 @@ Hidehiko K. Inagaki, Yonil Jung, Eric D. Hoopfer, Allan M. Wong, Neeli Mishra, J
 Nicolas L. Young, Mariana D. Plazas-Mayorca, Peter A. DiMaggio, Ian Z. Flaniken, Andrea J. Beltran, Neeli Mishra, Gary LeRoy, Christodoulos A. Floudas, Benjamin A. Garcia. (2011)\
 **Collective mass spectrometry approaches reveal broad and combinatorial modification of high mobility group protein A1a**, Journal of the American Society for Mass Spectrometry [[pdf](./assets/papers/mishra-jasms2011.pdf)]
 
+(\* indicates equal contribution)
+
 ---
 
-### Manuscripts in Preparation
-
-Neeli Mishra, Evan S. Schaffer, Wenze Li, Matthew R. Whiteway, Jason Freedman, Michelle Vancura, Kripa Patel, Venkatakaushik Voleti, Liam Paninski, Larry F. Abbott, Elizabeth M. C. Hillman, Richard Axel (2021)\
-**Flygenvectors: global and local representations of behavior and internal state**, available upon request
+### Additional Manuscripts
 
 Neeli Mishra (2020)\
 **Characterization of global brain state dynamics in Drosophila melanogaster**, Doctoral Thesis, available upon request
